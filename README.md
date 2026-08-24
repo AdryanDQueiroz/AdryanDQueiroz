@@ -1,6 +1,15 @@
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Bem%20vindo&fontSize=40&fontColor=FFFAFA&fontAlign=50&fontAlignY=40&rotate=0&stroke=b479ad&strokeWidth=3&animation=typing&desc=-----------------&descSize=26&descAlign=50&descAlignY=60&textBg=false&color=gradient" />
+<!-- Container principal para centralizar e sobrepor os elementos -->
+<div align="center" style="position: relative; width: 100%; height: 120px;">
+  
+  <!-- IMAGEM DE FUNDO: Capsule Render com efeito Waving e Gradient Rainbow (sem texto) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontColor=FFFAFA&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&descSize=0&textBg=false&color=gradient" width="100%" alt="Cabeçalho Rainbow Animado" style="border-radius: 10px;"/>
+
+  <!-- TEXTO ANIMADO SOBREPOSTO: Readme Typing SVG com efeito de escrita em loop -->
+  <a href="https://git.io/typing-svg" style="position: absolute; top: 40px; left: 0; width: 100%; display: flex; justify-content: center; text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo!;" alt="Texto Bem-vindo com efeito de digitação" />
+  </a>
 </div>
+
 ###
 
 <div data-importer="image" align="center">
