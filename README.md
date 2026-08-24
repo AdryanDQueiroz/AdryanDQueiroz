@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Bem+vindo!;&center=true&vCenter=true)](https://git.io/typing-svg)
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Bem%20vindo&fontSize=40&fontColor=FFFAFA&fontAlign=50&fontAlignY=40&rotate=0&stroke=b479ad&strokeWidth=3&animation=fadeIn&desc=-----------------&descSize=26&descAlign=50&descAlignY=60&textBg=false&color=gradient"  />
+  type=waving&height=100&section=header&reversal=false&text=Bem%20vindo&fontSize=40&fontColor=FFFAFA&fontAlign=50&fontAlignY=40&rotate=0&stroke=b479ad&strokeWidth=3&animation=fadeIn&desc=-----------------&descSize=26&descAlign=50&descAlignY=60&textBg=false&color=gradient"  />
 </div>
 
 ###
