@@ -9,7 +9,7 @@
 </div>
 
 ###
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Bem+vindo!;&center=true&vCenter=true)](https://git.io/typing-svg)
 <h1 data-importer="text" align="left">Adryan D🤓<br></h1>
 <h2>Atualmente estou cursando o 1º semestre do curso de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Zona Leste e estou empenhado em aprender e entender mais sobre a área para meu crescimento profissional e pessoal.</h2>
 
