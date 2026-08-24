@@ -1,7 +1,6 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Bem%20vindo&fontSize=40&fontColor=FFFAFA&fontAlign=50&fontAlignY=40&rotate=0&stroke=b479ad&strokeWidth=3&animation=fadeIn&desc=-----------------&descSize=26&descAlign=50&descAlignY=60&textBg=false&color=gradient"  />
 </div>
-
 name: generate animation
 
 on:
@@ -9,6 +8,13 @@ on:
   schedule:
     - cron: "0 */24 * * *" 
   
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 ###
 
 <div data-importer="image" align="center">
