@@ -10,7 +10,8 @@
 
 ###
 
-<h1 data-importer="text" align="left">Adryan D🤓<br><br>Atualmente estou cursando o 1º semestre do curso de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Zona Leste e estou empenhado em aprender e entender mais sobre a área para meu crescimento profissional e pessoal.</h1>
+<h1 data-importer="text" align="left">Adryan D🤓<br></h1>
+<p>Atualmente estou cursando o 1º semestre do curso de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Zona Leste e estou empenhado em aprender e entender mais sobre a área para meu crescimento profissional e pessoal.</p>
 
 ###
 
