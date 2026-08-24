@@ -1,5 +1,5 @@
 <!-- Container principal para centralizar e sobrepor os elementos -->
-<div align="center" style="position: relative; width: 100%; height: 120px;">
+<div align="center" style="position: relative; width: 0%; height: 0px;">
   
   <!-- IMAGEM DE FUNDO: Capsule Render com efeito Waving e Gradient Rainbow (sem texto) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontColor=FFFAFA&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&descSize=0&textBg=false&color=gradient" width="100%" alt="Cabeçalho Rainbow Animado" style="border-radius: 10px;"/>
