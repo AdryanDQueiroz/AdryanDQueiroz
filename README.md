@@ -1,5 +1,5 @@
-<div align="center">
- font=Fira+Code&size=35&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&height=70&lines=Bem+vindo!;" alt="Efeito Digitando" />
+<div data-importer="border">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&height=70&lines=Bem+vindo!;" alt="Efeito Digitando" type=waving&height=100&section=header&reversal=false&text=Bem%20vindo&fontSize=40&fontColor=FFFAFA&fontAlign=50&fontAlignY=40&rotate=0&stroke=b479ad&strokeWidth=3&animation=typing&desc=-----------------&descSize=26&descAlign=50&descAlignY=60&textBg=false&color=gradient" />
 </div>
 
 ###
