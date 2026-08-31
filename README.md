@@ -6,7 +6,7 @@
 
   <!-- TEXTO ANIMADO SOBREPOSTO: Readme Typing SVG com efeito de escrita em loop -->
   <a href="https://git.io/typing-svg" style="position: absolute; top: 100px; left: 0; width: 100%; display: flex; justify-content: center; text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Bem-vindo!;" alt="Texto Bem-vindo com efeito de digitação" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo!;" alt="Texto Bem-vindo com efeito de digitação" />
   </a>
 </div>
 
